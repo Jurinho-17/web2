@@ -1,0 +1,24 @@
+    img {
+        height:290px;
+    }
+    h2 {
+        display:inline;
+        border: 2px dotted blue;
+        background-color:rgb(199, 218, 247);
+        padding-right:8px;
+    }
+    table {
+        background-color:rgb(238, 224, 240);
+    }
+    ul {
+        margin:10px 10px;
+        padding:10px 10px;
+        display:inline-block;
+        background-color:rgb(235, 243, 217);
+    }
+    ul li {
+        list-style:none;
+        color:slategray;
+        line-height: 30px;
+    }
+    
